@@ -1,1 +1,106 @@
-site_name: My Docs
+site_name: UnOffical Brinkley Documentation
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  logo: assets/brinkley-rv-logo.svg
+  favicon: assets/Brinkley-B.png
+  features:
+    - navigation.footer
+    - announce.dismiss
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: black
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: black
+      accent: deep purple
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+
+
+markdown_extensions:
+  - attr_list
+#  - pymdownx.emoji:
+#      emoji_index: !!python/name:material.extensions.emoji.twemoji
+#      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+nav:
+  - Home: index.md
+  # Model Z
+  - Model Z:
+    - Model Z: model-z/index.md
+    - Model 3400:
+      - Model Z-3400: model-z/3400/index.md
+  # Model G    
+  - Model G:
+    - Model G: model-g/index.md
+    - Model 3950:
+      - Model G-3950: model-g/3950/index.md
+    - Model 3970:
+      - Model G-3970: model-g/3970/index.md
+  # Model I
+  - Model I:
+    - About: model-i/index.md
+  - Tags: tags.md
+  - 📄 Download PDF: pdf/document.pdf
+
+  
+
+plugins:
+  - search
+  - tags
+  - with-pdf:
+      author: Percle
+      cover_subtitle: ""
+      copyright: Copyright © 2025
+      toc_level: 3
+
+
+extra:
+  generator: false
+  social:
+    - icon: simple/facebook
+      link: https://www.facebook.com/officialbrinkleyrv
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@BrinkleyRV
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/BrinkleyRv

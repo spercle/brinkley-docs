@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to the "Unofficial" Brinkley Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Thank you for visiting the "Unofficial" documentation for Brinkley. **Please note that this is not an official site** but rather a community-driven resource. All information here is sourced directly from Brinkley's official materials and crowd-sourced from the vast experience of Brinkley RV owners. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This site is under construction, and we welcome contributions from all Brinkley enthusiasts to enrich our collective knowledge base.
