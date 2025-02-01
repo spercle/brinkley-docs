@@ -16,5 +16,5 @@ The G3950 Comes with a GE Energy Star 19 Cu. Ft. Fridge w/ Ice Maker & Filtered 
 
 Looks for Replacement Filters? 
 
-![OEM GE Water Filter XWFE.](https://www.geapplianceparts.com/store/parts/spec/XWFE){:target="_blank"} 
+[![OEM GE Water Filter XWFE](https://www.geapplianceparts.com/store/parts/spec/XWFE)](https://www.geapplianceparts.com/store/parts/spec/XWFE){:target="_blank"}
 
