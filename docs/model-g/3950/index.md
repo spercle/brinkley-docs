@@ -1,9 +1,6 @@
 ---
 date:
     created: 2025-01-05
-tags:
-    - "Model G"
-    - "G3950"
 authors:
     - percle
 ---
