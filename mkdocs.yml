@@ -1,4 +1,11 @@
-site_name: UnOffical Brinkley Documentation
+site_name: Unoffical Brinkley Documentation
+site_author: Steven Percle
+site_description: >-
+  The Unoffical Brinkley Documentation Site. Filled with Docs, Tips
+  Tricks and everything Brinkley
+
+repo_url: https://github.com/spercle/brinkley-docs
+repo_name: spercle/brinkley-docs
 theme:
   name: material
   font:
@@ -6,6 +13,8 @@ theme:
     code: Red Hat Mono
   logo: assets/brinkley-rv-logo.svg
   favicon: assets/Brinkley-B.png
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.footer
     - announce.dismiss
@@ -81,12 +90,18 @@ nav:
   - Model I:
     - About: model-i/index.md
   - Tags: tags.md
+  - Blog:
+    - blog/index.md
   - 📄 Download PDF: pdf/document.pdf
 
   
 
 plugins:
-  - search
+  - blog
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - meta
+  - glightbox
   - tags
   - with-pdf:
       author: Percle
@@ -104,3 +119,5 @@ extra:
       link: https://www.youtube.com/@BrinkleyRV
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/BrinkleyRv
+
+copyright: Unoffical 2025
