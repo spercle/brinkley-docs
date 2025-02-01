@@ -32,7 +32,7 @@ theme:
       primary: black
       accent: deep purple
   features:
-    #- navigation.footer
+    - navigation.footer
     - announce.dismiss
     - content.code.annotate
     - content.code.copy
@@ -74,19 +74,19 @@ nav:
     - Model 3400:
       - Model Z-3400: model-z/3400/index.md
   - Model G:
-    - model-g/index.md
+    - model_g/index.md
     - Model 3950:
-      - model-g/3950/index.md
+      - model_g/3950/index.md
       - Interior:
-        - model-g/3950/interior/index.md
-        - Refrigerator: model-g/3950/interior/refrigerator.md
+        - model_g/3950/interior/index.md
+        - Refrigerator: model_g/3950/interior/refrigerator.md
     - Model 3970:
-      - Model G-3970: model-g/3970/index.md
+      - Model G-3970: model_g/3970/index.md
   - Model I:
     - About: model-i/index.md
   - Tags: tags.md
   - Blog:
-    - blog/index.md
+    - blomodel_g/index.md
   - 📄 Download PDF: pdf/document.pdf
 
   

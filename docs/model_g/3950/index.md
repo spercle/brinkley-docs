@@ -1,8 +1,5 @@
 ---
-date:
-    created: 2025-01-05
-authors:
-    - percle
+title: Model G 3950
 ---
 
 ![Model G 3950 Luxury Fifth Wheel Toy Hauler by Brinkley RV](https://www.brinkleyrv.com/wp-content/uploads/RVs/Toy_Hauler/Model_G/24/Floorplans/Model-G-3950-Luxury-Fifth-Wheel-Toy-Haulers-by-Brinkley-RV-2024.webp)
