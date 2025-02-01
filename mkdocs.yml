@@ -86,7 +86,7 @@ nav:
     - About: model-i/index.md
   - Tags: tags.md
   - Blog:
-    - blomodel_g/index.md
+    - blog/index.md
   - 📄 Download PDF: pdf/document.pdf
 
   
@@ -99,7 +99,7 @@ plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - meta
-  #- glightbox
+  - glightbox
   - tags
   - with-pdf:
       author: Steven Percle
