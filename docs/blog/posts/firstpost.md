@@ -10,6 +10,8 @@ categories:
 
 Welcome to our community hub for all things Brinkley! Here at the "Unofficial" documentation site for Brinkley RVs, we're thrilled to have you. 
 
+<!-- more -->
+
 ## What This Site Is All About
 
 First off, let's clarify what you're stepping into. This site isn't run by Brinkley itself but is rather a vibrant, community-driven space where enthusiasts like you and me come together. We aim to compile, share, and discuss everything from maintenance tips to travel stories, all centered around your beloved Brinkley RVs.
