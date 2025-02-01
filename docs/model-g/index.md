@@ -1,4 +1,4 @@
-# MODEL G
+# Model G
 
 ## Luxury Fifth Wheel Toy Haulers
 

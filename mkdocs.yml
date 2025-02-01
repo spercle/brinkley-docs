@@ -15,13 +15,6 @@ theme:
   favicon: assets/Brinkley-B.png
   icon:
     repo: fontawesome/brands/github
-  features:
-    - navigation.footer
-    - announce.dismiss
-    - content.code.annotate
-    - content.code.copy
-    - navigation.indexes
-
   palette:
     # Dark Mode
     - scheme: slate
@@ -39,6 +32,11 @@ theme:
       primary: black
       accent: deep purple
   features:
+    #- navigation.footer
+    - announce.dismiss
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
@@ -53,9 +51,6 @@ theme:
 
 markdown_extensions:
   - attr_list
-#  - pymdownx.emoji:
-#      emoji_index: !!python/name:material.extensions.emoji.twemoji
-#      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -74,19 +69,19 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  # Model Z
   - Model Z:
     - Model Z: model-z/index.md
     - Model 3400:
       - Model Z-3400: model-z/3400/index.md
-  # Model G    
   - Model G:
-    - Model G: model-g/index.md
+    - model-g/index.md
     - Model 3950:
-      - Model G-3950: model-g/3950/index.md
+      - model-g/3950/index.md
+      - Interior:
+        - model-g/3950/interior/index.md
+        - Refrigerator: model-g/3950/interior/refrigerator.md
     - Model 3970:
       - Model G-3970: model-g/3970/index.md
-  # Model I
   - Model I:
     - About: model-i/index.md
   - Tags: tags.md
@@ -98,13 +93,16 @@ nav:
 
 plugins:
   - blog
+  - git-authors
+  - git-revision-date-localized:
+      type: date
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - meta
   - glightbox
   - tags
   - with-pdf:
-      author: Percle
+      author: Steven Percle
       cover_subtitle: ""
       copyright: Copyright © 2025
       toc_level: 3
