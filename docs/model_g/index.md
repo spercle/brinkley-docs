@@ -10,7 +10,7 @@ With one virtual prototype and three physical prototypes, the Model G has been p
 
 The Brinkley Model G line is much more than just a Luxury Fifth-Wheel Toy Hauler! The G line is packed with intelligently designed features, an automotive exterior, and a true residential interior that’s unmatched.
 
-[Offical Model G Owners Manual](../assets/model_g/2024-Brinkley-RV-Model-G-Owners-Manual-v2023-1R05252023.pdf)
+[Offical Model G Owners Manual](https://www.brinkleyrv.com/wp-content/uploads/Docs/Owners_Manuals/BRV/Model_G/2024-Brinkley-RV-Model-G-Owners-Manual-v2023-1R05252023.pdf)
 
 [Browse Our's](../model_g/manual/index.md)
 
