@@ -50,13 +50,40 @@ theme:
 
 
 markdown_extensions:
+markdown_extensions:
+  - abbr
+  - admonition
   - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -64,8 +91,13 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
-  - admonition
-  - pymdownx.details
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 nav:
   - Home: index.md
@@ -84,6 +116,15 @@ nav:
       - Model G-3970: model_g/3970/index.md
   - Model I:
     - About: model-i/index.md
+  - Community:
+    - Contributing:
+      - contributing/index.md
+#      - Reporting a bug: contributing/reporting-a-bug.md
+#      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
+#      - Requesting a change: contributing/requesting-a-change.md
+#      - Adding translations: contributing/adding-translations.md
+#      - Making a pull request: contributing/making-a-pull-request.md
+#      - Asking a question: https://github.com/squidfunk/mkdocs-material/discussions
   - Tags: tags.md
   - Blog:
     - blog/index.md
@@ -119,3 +160,4 @@ extra:
       link: https://twitter.com/BrinkleyRv
 
 copyright: Unoffical 2025
+
