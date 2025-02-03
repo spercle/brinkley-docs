@@ -107,6 +107,7 @@ nav:
       - Model Z-3400: model-z/3400/index.md
   - Model G:
     - model_g/index.md
+    - Owners Manual: model_g/manual/index.md
     - Model 3950:
       - model_g/3950/index.md
       - Interior:
@@ -146,7 +147,7 @@ plugins:
       author: Steven Percle
       cover_subtitle: ""
       copyright: Copyright © 2025
-      toc_level: 3
+      toc_level: 5
 
 
 extra:
