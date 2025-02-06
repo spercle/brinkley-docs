@@ -13,4 +13,5 @@ The Brinkley Model G line is much more than just a Luxury Fifth-Wheel Toy Hauler
 
 | <img src="../assets/model_g/Model-G-3250-2024.webp" width="300"><br>[3250](#model-g3250) | <img src="../assets/model_g/Model-G-3500-2024.webp" width="300"><br>[3500](#model-g3500) |
 |:-----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
-| <img src="../assets/model_g/Model-G-3950-2024.webp" width="300"><br>[3950](../model_g/3950/index.md) | <img src="../assets/model_g/Model-G-4100-2024.webp" width="300"><br>[4100](#model-g4100) |
+| <img src="../assets/model_g/Model-G-3950-2024.webp" width="300"><br>[3950](../model_g/3950/index.md) | <img src="../assets/model_g/Model-G-3970-2025.webp" width="300"><br>[3970](../model_g/3970/index.md) |
+| <img src="../assets/model_g/Model-G-4000-2024.webp" width="300"><br>[4000](../model_g/4000/index.md) | <img src="../assets/model_g/Model-G-4100-2024.webp" width="300"><br>[4100](../model_g/4100/index.md) |

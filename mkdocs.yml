@@ -41,6 +41,7 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
+    - navigation.instant.prefetch
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
@@ -160,5 +161,5 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/BrinkleyRv
 
-copyright: Unoffical 2025
+copyright: Unoffical @2025
 

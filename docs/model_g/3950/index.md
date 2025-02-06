@@ -34,7 +34,7 @@ OPEN LIVING, 14′ GARAGE/FLEX SPACE WITH FOLD-AWAY BATH WALLS
     | Model G3950 |                        |
     |--------------------|------------------------|
     | Fresh Water (gal.) | 150                    |
-    | Gray Water [True gal.](../assests/truegal.md#true-gal){ data-preview } | 156 (104 True + 52) |
+    | Gray Water [True gal](../assests/truegal.md#true-gal){ data-preview } | 156 (104 True + 52) |
     | Black Water (gal.) | 85                     |
     | Fuel Station/Generator (gal.) | 60 (30+30)        |
     | LP (lbs.)          | 60 (30+30) Up to 80    |
