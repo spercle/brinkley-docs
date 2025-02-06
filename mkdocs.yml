@@ -36,6 +36,7 @@ theme:
     - announce.dismiss
     - content.code.annotate
     - content.code.copy
+    - content.tooltips
     - navigation.indexes
     - navigation.instant
     - navigation.instant.progress
@@ -49,7 +50,6 @@ theme:
     - search.share
 
 
-markdown_extensions:
 markdown_extensions:
   - abbr
   - admonition
