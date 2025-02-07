@@ -9,8 +9,8 @@ repo_name: spercle/brinkley-docs
 theme:
   name: material
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Beausite Classic
+    code: Roboto Mono
   logo: assets/brinkley-rv-logo.svg
   favicon: assets/Brinkley-B.png
   icon:
