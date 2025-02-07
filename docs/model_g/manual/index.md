@@ -1,4 +1,4 @@
-# THe Unoffical Model G Owner's Manual
+# THe Unofficial Model G Owner's Manual
 
 
 This section is a more searchable approach to the Model G Owner's Manual. 
@@ -23,7 +23,7 @@ This section is a more searchable approach to the Model G Owner's Manual.
 
 
 !!! note
-    **Site Based Off Offical Manual for Model G**
+    **Site Based Off Official Manual for Model G**
 
     Version: 2023-1
 

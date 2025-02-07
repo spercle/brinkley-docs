@@ -3,7 +3,7 @@ date:
     created: 2025-01-31
 tags:
     - "refrigerator"
-    - "filter"
+    - "water filter"
     - "G3950"
 authors:
     - percle

@@ -1,7 +1,7 @@
-site_name: Unoffical Brinkley Documentation
+site_name: Unofficial Brinkley Documentation
 site_author: Steven Percle
 site_description: >-
-  The Unoffical Brinkley Documentation Site. Filled with Docs, Tips
+  The Unofficial Brinkley Documentation Site. Filled with Docs, Tips
   Tricks and everything Brinkley
 
 repo_url: https://github.com/spercle/brinkley-docs
@@ -150,7 +150,6 @@ plugins:
       copyright: Copyright © 2025
       toc_level: 5
 
-
 extra:
   generator: false
   social:
@@ -161,5 +160,6 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/BrinkleyRv
 
-copyright: Unoffical @2025
+copyright: Unofficial @2025
+
 
