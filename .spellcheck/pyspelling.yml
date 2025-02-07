@@ -1,0 +1,16 @@
+matrix:
+- name: html
+  dictionary:
+    wordlists:
+    - .spellcheck/dictionary.txt
+    - .spellcheck/user-names.txt
+  pipeline:
+  - pyspelling.filters.html:
+      comments: false
+      ignores:
+      - pre
+      - code
+      - a
+      - :matches(.md-search__output, .md-nav__item, html>head, h1, .md-header__topic, .md-version, .md-banner)
+  sources:
+    - site/**/*.html

@@ -37,7 +37,7 @@ Each Brinkley RV is assigned a 17-digit vehicle identification number also refer
 
 
 
-Please see the typical de-coding of a Brinkley RV VIN below:
+Please see the typical decoding of a Brinkley RV VIN below:
 
 ![VIN breakdown](_page_13_Figure_6.jpeg)
 

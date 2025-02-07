@@ -34,7 +34,7 @@ Our goal is to ensure that our documentation, as well as issue tracker and discu
 
 **How to Do It:**
 - Navigate to the page you want to edit.
-- Look for an "Edit on GitHub" link if available, or go directly to the GitHub repo.
+- Look for an "Edit on GitHub" link if available, or go directly to the GitHub repository.
 - Find the corresponding file in the `docs` folder (e.g., `docs/your-page.md`).
 - Click on the pencil icon to edit the file directly on GitHub.
 - After making changes, describe them in the commit message and submit a pull request.
