@@ -111,6 +111,7 @@ nav:
     - Owners Manual: 
       - model_g/manual/index.md
       - Section 1 Introduction: model_g/manual/sec1/index.md
+      - Section 2 Reporting Safety Defects: model_g/manual/sec2/index.md
     - Model 3950:
       - model_g/3950/index.md
       - Interior:
