@@ -108,7 +108,9 @@ nav:
       - Model Z-3400: model-z/3400/index.md
   - Model G:
     - model_g/index.md
-    - Owners Manual: model_g/manual/index.md
+    - Owners Manual: 
+      - model_g/manual/index.md
+      - Section 1 Introduction: model_g/manual/sec1/index.md
     - Model 3950:
       - model_g/3950/index.md
       - Interior:
