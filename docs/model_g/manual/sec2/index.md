@@ -17,14 +17,24 @@ A Service Campaign may also be launched for a potential product failure. Unlike 
 
 Recalls and Service Campaigns can be found on the NHTSA website. As a reminder, this information will also be mailed to the contact information on the RV file.
 
-#### **TO CONTACT NHTSA IN THE UNITED STATES:**
+!!! info  "**TO CONTACT NHTSA IN THE UNITED STATES:**"
 
- **Please visit their website at [www.safercar.gov; ca](http://www.safercar.gov)ll their toll-free hotline at 1 (888) 327-4236 (Hearing impaired (TTY): 1 (800) 424-9153); or send your correspondence to:** 
+    Please visit their website at [www.safercar.gov; ca](http://www.safercar.gov)ll their toll-free hotline at 1 (888) 327-4236 (Hearing impaired (TTY): 1 (800) 424-9153); or send your correspondence to:
 
- **NHTSA Headquarters Attn: Administrator 1200 New Jersey Avenue SE Washington, DC 20590**
+    NHTSA Headquarters Attn: Administrator 1200 New Jersey Avenue SE Washington, DC 20590
 
- **TO CONTACT NHTSA IN CANADA: (Known as "Transport Canada")**
 
-> **Please visit their website at [www.tc.gc.ca; ca](http://www.tc.gc.ca)ll their toll-free hotline at 1 (800) 333-0510 (819) 994-3328 in the Gatineau-Ottawa area or internationally), or send your correspondence to:**
+!!! info "**TO CONTACT NHTSA IN CANADA: (Known as "Transport Canada")**"
 
- **Transport Canada-ASFAD 330 Sparks St. Ottawa, ON K1A 0N5**
+    Please visit their website at [www.tc.gc.ca;](http://www.tc.gc.ca) call their toll-free hotline at 1 (800) 333-0510 (819) 994-3328 in the Gatineau-Ottawa area or internationally, or send your correspondence to:**
+
+    Transport Canada-ASFAD 330 Sparks St. Ottawa, ON K1A 0N5
+
+
+---
+
+**BRINKLEY CUSTOMER CARE:** phone: [888.502.3460](tel:8885023460) or [574.501.4280](tel:5745014280) / email: [CustomerCare@BrinkleyRV.com](mailto:CustomerCare@BrinkleyRV.com)
+
+**SAFERIDE 24/7 - EMERGENCY ROADSIDE ASSISTANCE:** [888.482.5715](tel:8884825715) / **Customer Service:** [855.963.1770](tel:8559631770)
+
+---
