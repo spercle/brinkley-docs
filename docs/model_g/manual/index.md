@@ -1,5 +1,4 @@
-# THe Unofficial Model G Owner's Manual
-
+# The Unofficial Model G Owner's Manual
 
 This section is a more searchable approach to the Model G Owner's Manual. 
 
@@ -19,14 +18,20 @@ This section is a more searchable approach to the Model G Owner's Manual.
     5.  [Safety Precautions](../manual/sec1/index.md#e-safety-precautions)
     6.  [Additional Terminology Used](../manual/sec1/index.md#f-additional-terminology-used)
 2. [REPORTING SAFETY DEFECTS](../manual/sec2/index.md)
-    1. [Sub paragraph](paragraph1.md#sub-paragraph)
+   1. [How to Report Safety Defects](../manual/sec3/index.md#how-to-report-safety-defects)
 3. [SERVICE & WARRANTY](../manual/sec3/index.md)
-4. [OCCUPANT SAFETY]()
-
-
-
-
-
+    1. [Dealer’s Responsibilities](../manual/sec3/index.md#a-dealers-responsibilities)
+    2. [Owner’s (Your) Responsibilities](../manual/sec3/index.md#b-owners-your-responsibilities)
+    3. [Obtaining Warranty Service](../manual/sec3/index.md#c-obtaining-warranty-service)
+    4. [Obtaining Emergency Warranty Repair](../manual/sec3/index.md#d-obtaining-emergency-warranty-repair)
+    5. [Replacement Parts](../manual/sec3/index.md#e-replacement-parts)
+    6. [Aftermarket Installations and Alterations](../manual/sec3/index.md#f-aftermarket-installations-and-alterations)
+    7. [Updating Your Contact Information](../manual/sec3/index.md#g-updating-your-contact-information)
+4. [OCCUPANT SAFETY](../manual/sec4/index.md)
+   1. [Develop a Family Safety Plan](../manual/sec4/index.md#a-develop-a-family-safety-plan)
+29. [BASIC TROUBLESHOOTING](../manual/sec29/index.md)
+30. [GLOSSARY](../manual/sec30/index.md)
+31. [MAINTENANCE RECORD](../manual/sec31/index.md)
 
 !!! note
     **Site Based Off Official Manual for Model G**
